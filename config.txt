@@ -1,6 +1,6 @@
-token=YOUR BOT TOKEN HERE
-owner=YOUR OWNER ID HERE
-prefix=YOUR PREFIX HERE!!!
-game=Alpha Bots!
+token=NDkxMjYyNjE4NTMxNTI4NzA1.DoFcpw._eIUI75j_zlL9WDe3yAjd1aM6Ms
+owner=470500980342128650
+prefix=q
+game=Quran-United
 stayinchannel=true
-songinstatus=true
+
